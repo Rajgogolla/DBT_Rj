@@ -1,0 +1,8 @@
+sources:
+  - name: Bujji
+    database: Masking_db
+    schema: MASKING_DB_Schema
+    tables:
+
+      - name: EMPLOYEES
+      
